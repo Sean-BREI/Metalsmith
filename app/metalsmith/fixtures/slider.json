@@ -1,0 +1,29 @@
+{
+	"title": "Slider",
+	"slides": [
+		{
+			"img": {
+				"src": "http://placehold.it/1280x720",
+				"alt": "Placeholder Image",
+				"height": "720",
+				"width": "1280"
+			}
+		},
+		{
+			"img": {
+				"src": "http://placehold.it/1280x720",
+				"alt": "Placeholder Image",
+				"height": "720",
+				"width": "1280"
+			}
+		},
+		{
+			"img": {
+				"src": "http://placehold.it/1280x720",
+				"alt": "Placeholder Image",
+				"height": "720",
+				"width": "1280"
+			}
+		}				
+	]
+}

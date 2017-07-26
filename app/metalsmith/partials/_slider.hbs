@@ -1,0 +1,11 @@
+{{#parseFixture 'slider.json'}}
+<ul id="js-slider" class="slider">
+{{#each slides}}
+	<li class="slider__list-item{{#if @first}} slider__list-item--is-active{{/if}}">
+		{{#with img}}
+		<img src="{{ src }}" alt="{{{ alt }}}" height="{{ height }}" width="{{ width }}" />
+		{{/with}}
+	</li>
+{{/each}}
+</ul>
+{{/parseFixture}}
